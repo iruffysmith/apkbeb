@@ -1,0 +1,14 @@
+{
+   "browser_action": {
+      "default_icon": "main/icon_128.png",
+      "default_popup": "main/popup.html",
+	  "default_title": "APKBEB"
+   },
+   "description": "Experience the unparalleled convenience of browser extensions, revolutionizing the way you stay informed with the latest posts. Say goodbye to cumbersome site visits as you effortlessly access updates at your fingertips.",
+   "icons": {
+      "128": "main/icon_128.png"
+   },
+   "name": "APKBEB",
+   "version": "1.1.0",
+   "manifest_version": 2
+}
